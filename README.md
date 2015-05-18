@@ -1,10 +1,12 @@
 # 0bin.cf-PasteBin-clone
 
-Author of ZeroBin: https://github.com/sebsauvage/ZeroBin/
+Demo Page: [0bin.cf!](http://0bin.cf/)
+
+**Author of ZeroBin:** https://github.com/sebsauvage/ZeroBin/
 
 Modified to increase speed: 
-Original ZeroBin: http://gtmetrix.com/reports/www.zerobin.net/uusaGhh7
-Modified ZeroBin: http://gtmetrix.com/reports/0bin.cf/7sD4Eooz
+- Original ZeroBin: http://gtmetrix.com/reports/www.zerobin.net/uusaGhh7
+- Modified ZeroBin: http://gtmetrix.com/reports/0bin.cf/7sD4Eooz
 
 
 Updated to Alpha 0.20 (2015-05-18) by demoz**: Improved load speed and reduced impact on server.
