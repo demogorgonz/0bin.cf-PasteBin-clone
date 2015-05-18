@@ -9,7 +9,7 @@ Modified to increase speed:
 - Modified ZeroBin: http://gtmetrix.com/reports/0bin.cf/Vjt27nSX
 
 
-Updated to Alpha 0.20 (2015-05-18) by demoz**: Improved load speed and reduced impact on server.
+Updated to Alpha 0.20 (2015-05-18) by demoz(DemogorgonZ): Improved load speed and reduced impact on server.
 
 #Original ReadMe:
 
