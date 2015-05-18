@@ -66,4 +66,4 @@
   * **Alpha 0.19 (2013-07-05)**:
     * Corrected XSS security flaw which affected IE<10. Other browsers were not affected.
     * Corrected spacing display in IE<10.
-  * **Alpha 0.20 (2015-05-18) by demoz**: Improved load speed and impact on server.
+  * **Alpha 0.20 (2015-05-18) by demoz**: Improved load speed and impact on server. 
