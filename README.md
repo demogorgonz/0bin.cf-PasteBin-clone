@@ -6,7 +6,7 @@ Demo Page: [0bin.cf!](http://0bin.cf/)
 
 Modified to increase speed: 
 - Original ZeroBin: http://gtmetrix.com/reports/www.zerobin.net/uusaGhh7
-- Modified ZeroBin: http://gtmetrix.com/reports/0bin.cf/7sD4Eooz
+- Modified ZeroBin: http://gtmetrix.com/reports/0bin.cf/Vjt27nSX
 
 
 Updated to Alpha 0.20 (2015-05-18) by demoz**: Improved load speed and reduced impact on server.
